@@ -1,0 +1,20 @@
+# IDE and cache files
+.idea/
+__pycache__/
+*.pyc
+
+# Data files
+*.txt
+*.dat
+*.csv
+*.png
+log/
+ml-1m/
+data/
+pre_data/
+kg/
+
+# Model files
+*.pth
+backup/
+model/
